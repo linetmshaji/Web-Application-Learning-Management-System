@@ -5,21 +5,21 @@ in form of pdf.
 - MODULE DESCRIPTION
 The system is proposed to have following modules.
 - ADMIN MODULE
--Login,
--Add and edit course,
--Add and edit subjects,
--View  user,
--View Faculty,
+-Login
+-Add and edit course
+-Add and edit subjects
+-View  user
+-View Faculty
 -View Feedback
 
 - PUBLIC MODULE
--Search  and download Study material,
+-Search  and download Study material
 -Feedback
 
 - TEACHER MODULE
 -Login,
--Search  and download Study material,
--Upload  Study Material,
--Teachers can reply the questions posted by the students,
--View the questions posted by the Faculty,
+-Search  and download Study material
+-Upload  Study Material
+-Teachers can reply the questions posted by the students
+-View the questions posted by the Faculty
 -Feedback
